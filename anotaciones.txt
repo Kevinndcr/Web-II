@@ -1,0 +1,6 @@
+** en este curso solo hicimos prácticas como en Web I, pero usando react.
+Por lo que no se hizo mucho más que adaptarnos a react xd
+
+class 1 = Fundamentos de React
+Class 2 = El repositorio del profe estaba vacío, por lo que adjunté una práctica usando archivos CSV xd
+Class 4 = Cookies y Sesiones web 
